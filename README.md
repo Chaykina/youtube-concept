@@ -1,4 +1,4 @@
-# Youtube-concept - training project from Glo Academy
+# Youtube-concept - training project 
 Project was done by Liubov Chaykina
 
 ## Technologies used
